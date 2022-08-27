@@ -47,7 +47,7 @@ sudo tee $HOME/.icq/config.yaml > /dev/null <<EOF
 default_chain: stride-testnet
 chains:
   gaia-testnet:
-    key: wallet
+    key: xpekkix
     chain-id: GAIA
     rpc-addr: http://86.48.0.161:23657
     grpc-addr: http://86.48.0.161:23090
@@ -62,7 +62,7 @@ chains:
     output-format: json
     sign-mode: direct
   stride-testnet:
-    key: wallet
+    key: xpekkix
     chain-id: STRIDE-TESTNET-4
     rpc-addr: http://127.0.0.1:16657
     grpc-addr: http://127.0.0.1:16090
