@@ -84,8 +84,8 @@ EOF
 > `Cüzdan` yazan kısma cüzdan adınızı yazın
 
 ```
-icq keys restore --chain stride-testnet Cüzdan
-icq keys restore --chain gaia-testnet Cüzdan
+icq keys restore --chain stride-testnet xpekkix
+icq keys restore --chain gaia-testnet xpekkix
 ```
 
 > Cüzdan kelimelerinizi girmenizi isteyecek.
